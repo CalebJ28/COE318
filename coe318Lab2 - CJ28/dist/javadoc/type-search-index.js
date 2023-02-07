@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"coe318.lab2","l":"ComplexNumber"},{"p":"coe318.lab2","l":"ComplexTry"}];updateSearchResults();
